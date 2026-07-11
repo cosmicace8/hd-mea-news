@@ -1,0 +1,42 @@
+{
+  "updatedAt": "2026-07-11",
+  "note": "手動でキュレーションしているイベント情報です。新しい情報が見つかり次第このファイルを編集してください。",
+  "events": [
+    {
+      "title": "MEA Meeting 2027 (14th International Meeting on Neural and Electrogenic Cell Interfacing)",
+      "dateLabel": "2027年7月7日〜9日",
+      "startDate": "2027-07-07",
+      "location": "ドイツ・アーヘン",
+      "organizer": "NMI (Natural and Medical Sciences Institute)",
+      "url": "https://www.mea2027.com/",
+      "description": "MEA技術と神経・電気生理応用に関する国際会議。隔年開催のMEA Meetingシリーズ最新回。"
+    },
+    {
+      "title": "Neuroscience 2026 (Society for Neuroscience 年次大会)",
+      "dateLabel": "2026年11月14日〜18日",
+      "startDate": "2026-11-14",
+      "location": "アメリカ・ワシントンD.C. (Walter E. Washington Convention Center)",
+      "organizer": "Society for Neuroscience (SfN)",
+      "url": "https://www.sfn.org/meetings/neuroscience-2026",
+      "description": "世界最大級の神経科学会議。HD-MEAを用いた神経回路・オルガノイド研究の発表も多数見込まれる。"
+    },
+    {
+      "title": "BMES 2026 Annual Meeting",
+      "dateLabel": "2026年10月21日〜24日",
+      "startDate": "2026-10-21",
+      "location": "アメリカ・フロリダ州オーランド (Orlando World Center Marriott)",
+      "organizer": "Biomedical Engineering Society (BMES)",
+      "url": "https://www.bmes.org/2026/annualmeeting",
+      "description": "生体医工学分野の年次大会。心筋・神経電気生理計測に関するセッションあり。"
+    },
+    {
+      "title": "MaxWell Biosystems グローバルイベント展開 (2026年通年)",
+      "dateLabel": "2026年通年",
+      "startDate": "2026-01-01",
+      "location": "オーストラリア・欧州・日本・北米",
+      "organizer": "MaxWell Biosystems",
+      "url": "https://www.mxwbio.com/newsletter/latest-in-disease-modeling-neurocomputing-global-events-and-more",
+      "description": "HD-MEA技術、疾患モデリング、ニューロコンピューティングをテーマに各地域でシンポジウム・ウェビナーを展開中。"
+    }
+  ]
+}

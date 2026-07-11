@@ -1,0 +1,56 @@
+{
+  "updatedAt": "2026-07-11",
+  "note": "手動でキュレーションしている企業情報です。新しい情報が見つかり次第このファイルを編集してください。",
+  "companies": [
+    {
+      "name": "MaxWell Biosystems",
+      "url": "https://www.mxwbio.com/",
+      "description": "ETH Zurich発のスピンオフ企業。CMOS技術を用いた高密度MEAプラットフォーム「MaxOne」「MaxTwo」を展開。",
+      "items": [
+        {
+          "date": "2026-02",
+          "title": "EMEA地域チーム発足、商業展開を強化",
+          "summary": "Giulio Zorzi氏をリーダーとするEMEA(欧州・中東・アフリカ)地域の専任チームを発足し、パートナーシップを拡大。",
+          "url": "https://www.mxwbio.com/updates/commercial-expansion"
+        },
+        {
+          "date": "2026",
+          "title": "米州拠点としてサンディエゴに新オフィスを開設",
+          "summary": "北米・南米の研究者やバイオテック企業との連携強化を目的に、サンディエゴに地域拠点を開設。",
+          "url": "https://www.mxwbio.com/"
+        },
+        {
+          "date": "2026",
+          "title": "MaxTwo 24-Well Plate、INTEGRA社との液体ハンドリング自動化ワークフローを発表",
+          "summary": "半自動の並列液体処理により、ウェル間・実験間の再現性を向上させるアプリケーションノートを公開。",
+          "url": "https://www.mxwbio.com/"
+        },
+        {
+          "date": "2026",
+          "title": "MxW Bulletin 第2号: Disease Modeling and Neurocomputing特集",
+          "summary": "疾患モデリングとニューロコンピューティングをテーマにしたニュースレター。Nature Custom Mediaウェビナーも予定。",
+          "url": "https://www.mxwbio.com/newsletter/latest-in-disease-modeling-neurocomputing-global-events-and-more"
+        }
+      ]
+    },
+    {
+      "name": "3Brain",
+      "url": "https://www.3brain.com/",
+      "description": "スイス発のHD-MEAメーカー。単一ウェル向け「BioCAM」シリーズ、マルチウェル向け「HyperCAM」シリーズを展開。",
+      "items": [
+        {
+          "date": "2026",
+          "title": "HyperCAM Delta、96ウェルHD-MEAの受注を開始予定",
+          "summary": "全24,576電極(256電極×96ウェル)を同時録音可能な業界初のマルチウェルHD-MEAプラットフォーム。2026年内に注文可能予定。",
+          "url": "https://www.3brain.com/products/multiwell/hypercam-delta"
+        },
+        {
+          "date": "2026",
+          "title": "BioCAM DupleX: 双方向電極による同時記録・電気刺激",
+          "summary": "4,096電極のいずれからも20kHzでの高密度記録と神経回路への電気刺激を同時に行えるシステム。",
+          "url": "https://www.3brain.com/products/single-well/biocam-duplex"
+        }
+      ]
+    }
+  ]
+}

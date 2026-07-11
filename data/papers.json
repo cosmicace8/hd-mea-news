@@ -1,0 +1,1135 @@
+{
+  "updatedAt": "2026-07-11T12:45:54.450Z",
+  "query": "\"high-density microelectrode array\"[tiab] OR \"high density microelectrode array\"[tiab] OR \"HD-MEA\"[tiab] OR \"HD-MEAs\"[tiab] OR \"CMOS microelectrode array\"[tiab] OR \"CMOS-based microelectrode array\"[tiab] OR \"MaxWell Biosystems\"[tiab] OR \"MaxOne\"[tiab] OR \"MaxTwo\"[tiab] OR \"3Brain\"[tiab] OR \"BioCAM\"[tiab] OR \"HyperCAM\"[tiab]",
+  "count": 141,
+  "papers": [
+    {
+      "pmid": "42155761",
+      "title": "Cortical electrical stimulation modulates hippocampal electrophysiological activity in mouse brain slices of temporal lobe epilepsy",
+      "authors": "He S, Zhang L, Zhang G 他",
+      "journal": "Brain research",
+      "pubdate": "2026/09/15",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42155761/"
+    },
+    {
+      "pmid": "41864567",
+      "title": "A fast and simple algorithm for accurate spike detection in HD-MEA recordings",
+      "authors": "Zegers-Delgado J, Renegar N, Pathirage K 他",
+      "journal": "Journal of neuroscience methods",
+      "pubdate": "2026/07/01",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41864567/"
+    },
+    {
+      "pmid": "42362501",
+      "title": "Nitric oxide refines retinal circuit architecture independently of retinal wave dynamics",
+      "authors": "Walter LT, Móvio MI, Higa GSV 他",
+      "journal": "Cell death discovery",
+      "pubdate": "2026/06/26",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42362501/"
+    },
+    {
+      "pmid": "42406842",
+      "title": "Investigating The Network-Wide Mechanisms of Pallidal Deep Brain Stimulation Using High-Density Microelectrode Arrays",
+      "authors": "Kragelund FS, Heerdegen M, Sellmann T 他",
+      "journal": "Journal of visualized experiments : JoVE",
+      "pubdate": "2026/06/16",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42406842/"
+    },
+    {
+      "pmid": "42305135",
+      "title": "Measuring Electrophysiological Activity in Acute Brain Slices, Spheroids, and Organoids Using 3D High-Density Multielectrode Arrays",
+      "authors": "Pali E, Pellavio G, Conforti M 他",
+      "journal": "Bio-protocol",
+      "pubdate": "2026/06/05",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42305135/"
+    },
+    {
+      "pmid": "42236200",
+      "title": "Seize the Data: A User-Friendly GUI for High-Resolution Analysis of Seizure Dynamics in HD-MEA Recordings",
+      "authors": "Blotter ML, Norby JH, Cahoon J 他",
+      "journal": "eNeuro",
+      "pubdate": "2026/06/03",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42236200/"
+    },
+    {
+      "pmid": "42163273",
+      "title": "Reversible synaptic deficits in early-stage batten disease",
+      "authors": "Wani MA, Hall CM, Mittmann T 他",
+      "journal": "Journal of translational medicine",
+      "pubdate": "2026/05/20",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42163273/"
+    },
+    {
+      "pmid": "42095419",
+      "title": "Engineering Neuronal Network Connectivity Through Precise and Scalable Electrical Modulation",
+      "authors": "S Kumar S, Bossard Y, Sava R 他",
+      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "pubdate": "2026/05/07",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42095419/"
+    },
+    {
+      "pmid": "41187592",
+      "title": "Development of an innervated human skin equivalent to model nociceptive circuitry in vitro",
+      "authors": "Bellantoni D, Casale C, Mazio C 他",
+      "journal": "Biomaterials",
+      "pubdate": "2026/05/01",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41187592/"
+    },
+    {
+      "pmid": "42012311",
+      "title": "Bringing cellular clarity to the cortical component of ALS with a high-density multi-electrode array system",
+      "authors": "Erol ZY, Quintanilla C, Ozdinler PH",
+      "journal": "The FEBS journal",
+      "pubdate": "2026/04/21",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42012311/"
+    },
+    {
+      "pmid": "41621071",
+      "title": "Protocol for tailored in vitro neuronal networks on high-density microelectrode arrays with polydimethylsiloxane microstructures",
+      "authors": "Haeb AC, Yamamoto H, Roach P 他",
+      "journal": "STAR protocols",
+      "pubdate": "2026/03/20",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41621071/"
+    },
+    {
+      "pmid": "41664646",
+      "title": "MyeliMAP: a microfluidic-multielectrode array hybrid platform to investigate oligodendrocyte function in human iPSC derived brain-like networks",
+      "authors": "Ahuja K, Clément BF, Amos G 他",
+      "journal": "Lab on a chip",
+      "pubdate": "2026/03/17",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41664646/"
+    },
+    {
+      "pmid": "41519279",
+      "title": "Elevated FKBP5 expression associates with epilepsy-related molecular changes and promotes neuronal hyperexcitability",
+      "authors": "Cai M, Wang S, Liu M 他",
+      "journal": "Brain research",
+      "pubdate": "2026/03/01",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41519279/"
+    },
+    {
+      "pmid": "41357676",
+      "title": "A Scalable 1024-Channel Ultra-Low-Power Spike Sorting Chip with Event-Driven Detection and Spatial Clustering",
+      "authors": "Akhoundi A, Yan P, Landbrug Y 他",
+      "journal": "IEEE journal of solid-state circuits",
+      "pubdate": "2025/11/01",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41357676/"
+    },
+    {
+      "pmid": "41092395",
+      "title": "High resolution detection of stationary and evolving two-dimensional current source density within neuronal microcircuits",
+      "authors": "Zapfe WPK, Romero-Maldonado I, Gutiérrez R",
+      "journal": "Journal of neurophysiology",
+      "pubdate": "2025/11/01",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41092395/"
+    },
+    {
+      "pmid": "41015095",
+      "title": "Human iPSC-derived glutamatergic neurons with pathogenic KCNQ2 variants display hyperactive bursting phenotypes",
+      "authors": "Sundberg M, Shum C, Norabuena EM 他",
+      "journal": "Neurobiology of disease",
+      "pubdate": "2025/11/01",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41015095/"
+    },
+    {
+      "pmid": "41136604",
+      "title": "Implanted microelectrode arrays in reinnervated muscles allow separation of neural drives from transferred polyfunctional nerves",
+      "authors": "Ferrante L, Boesendorfer A, Barsakcioglu DY 他",
+      "journal": "Nature biomedical engineering",
+      "pubdate": "2025/10/24",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41136604/"
+    },
+    {
+      "pmid": "40878213",
+      "title": "Advances in large-scale electrophysiology with high-density microelectrode arrays",
+      "authors": "Schröter M, Cardes F, Bui CH 他",
+      "journal": "Lab on a chip",
+      "pubdate": "2025/09/23",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/40878213/"
+    },
+    {
+      "pmid": "40906696",
+      "title": "Enhanced electrophysiological recordings in acute brain slices, spheroids, and organoids using 3D high-density multielectrode arrays",
+      "authors": "Mapelli L, Di Domenico D, Sciacca G 他",
+      "journal": "PloS one",
+      "pubdate": "2025/09/04",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/40906696/"
+    },
+    {
+      "pmid": "40926807",
+      "title": "Deviance detection and regularity sensitivity in dissociated neuronal cultures",
+      "authors": "Zhang Z, Yaron A, Akita D 他",
+      "journal": "Frontiers in neural circuits",
+      "pubdate": "2025/08/25",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/40926807/"
+    },
+    {
+      "pmid": "40215890",
+      "title": "An in vitro platform for characterizing axonal electrophysiology of individual human iPSC-derived nociceptors",
+      "authors": "Clément BF, Petrella L, Wallimann L 他",
+      "journal": "Biosensors & bioelectronics",
+      "pubdate": "2025/08/01",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/40215890/"
+    },
+    {
+      "pmid": "40692582",
+      "title": "Sensory-spinal neuron co-culture platform enables analysis of sensory-driven spinal activation",
+      "authors": "Miyahara Y, Shimba K, Kotani K 他",
+      "journal": "Frontiers in neuroscience",
+      "pubdate": "2025/07/07",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/40692582/"
+    },
+    {
+      "pmid": "41337179",
+      "title": "Spatiotemporal Mapping of Epileptiform Dynamics in the Hippocampal Circuit via High-Density Biosensors",
+      "authors": "Emery BA, Khanzada S, Hu X 他",
+      "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+      "pubdate": "2025/07/01",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41337179/"
+    },
+    {
+      "pmid": "41336996",
+      "title": "A Computational Framework for Learning and Memory: Network Motif Evolution During LTP-Induced Plasticity",
+      "authors": "Hu X, Khanzada S, Emery BA 他",
+      "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+      "pubdate": "2025/07/01",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41336996/"
+    },
+    {
+      "pmid": "41336611",
+      "title": "High-Density MEA Reveals Distinct Sharp-Wave Ripple Network Dynamics Across Induction Methods in the Hippocampus",
+      "authors": "Khanzada S, Hu X, Emery BA 他",
+      "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+      "pubdate": "2025/07/01",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41336611/"
+    },
+    {
+      "pmid": "41335966",
+      "title": "Network-Level Characterization of Hippocampal Disruptions in Alzheimer's Disease Using Large-Scale Electrophysiology",
+      "authors": "Emery BA, Khanzada S, Hu X 他",
+      "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+      "pubdate": "2025/07/01",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41335966/"
+    },
+    {
+      "pmid": "41335812",
+      "title": "Weighted Graph for Longitudinal Tracking of Neurons in Cortical Organoids on a High-Density Microelectrode Array",
+      "authors": "Geng J, Gonzalez-Ferrer J, Voitiuk K 他",
+      "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+      "pubdate": "2025/07/01",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41335812/"
+    },
+    {
+      "pmid": "40631130",
+      "title": "Spontaneous Dynamics Predict the Effects of Targeted Intervention in Hippocampal Neuronal Cultures",
+      "authors": "Tentori E, Kastellakis G, Maschietto M 他",
+      "journal": "bioRxiv : the preprint server for biology",
+      "pubdate": "2025/07/01",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/40631130/"
+    },
+    {
+      "pmid": "40293475",
+      "title": "Application of a high-density microelectrode array assay using a 3D human iPSC-derived brain microphysiological system model for in vitro neurotoxicity screening of environmental compounds",
+      "authors": "Carstens KE, Gronskaya E, Jäckel D 他",
+      "journal": "Archives of toxicology",
+      "pubdate": "2025/07/01",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/40293475/"
+    },
+    {
+      "pmid": "40658718",
+      "title": "High-density Multielectrode Array Recordings of Retinal Waves Using An Electrophysiology Platform",
+      "authors": "Gupta RK, Clark N, Yeager K 他",
+      "journal": "Journal of visualized experiments : JoVE",
+      "pubdate": "2025/06/24",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/40658718/"
+    },
+    {
+      "pmid": "40558328",
+      "title": "Biomimetic Visual Information Spatiotemporal Encoding Method for In Vitro Biological Neural Networks",
+      "authors": "Wang X, Lv B, Tang F 他",
+      "journal": "Biomimetics (Basel, Switzerland)",
+      "pubdate": "2025/06/03",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/40558328/"
+    },
+    {
+      "pmid": "40171768",
+      "title": "Seamless integration of CMOS microsensors into open microfluidic systems",
+      "authors": "Bounik R, Landolt AE, Lee J 他",
+      "journal": "Lab on a chip",
+      "pubdate": "2025/04/29",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/40171768/"
+    },
+    {
+      "pmid": "40357001",
+      "title": "Engineered biological neuronal networks as basic logic operators",
+      "authors": "Küchler J, Vulić K, Yao H 他",
+      "journal": "Frontiers in computational neuroscience",
+      "pubdate": "2025/04/28",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/40357001/"
+    },
+    {
+      "pmid": "39725240",
+      "title": "Network-wide effects of pallidal deep brain stimulation normalised abnormal cerebellar cortical activity in the dystonic animal model",
+      "authors": "Kragelund FS, Spiliotis K, Heerdegen M 他",
+      "journal": "Neurobiology of disease",
+      "pubdate": "2025/02/01",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/39725240/"
+    },
+    {
+      "pmid": "39794405",
+      "title": "Impedance mapping with high-density microelectrode array chips reveals dynamic heterogeneity of in vitro epithelial barriers",
+      "authors": "Venz A, Duckert B, Lagae L 他",
+      "journal": "Scientific reports",
+      "pubdate": "2025/01/10",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/39794405/"
+    },
+    {
+      "pmid": "39753665",
+      "title": "High-density multielectrode arrays bring cellular resolution to neuronal activity and network analyses of corticospinal motor neurons",
+      "authors": "Quintanilla CA, Fitzgerald Z, Kashow O 他",
+      "journal": "Scientific reports",
+      "pubdate": "2025/01/03",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/39753665/"
+    },
+    {
+      "pmid": "39605518",
+      "title": "Multiscale Cloud-Based Pipeline for Neuronal Electrophysiology Analysis and Visualization",
+      "authors": "Geng J, Voitiuk K, Parks DF 他",
+      "journal": "bioRxiv : the preprint server for biology",
+      "pubdate": "2024/12/14",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/39605518/"
+    },
+    {
+      "pmid": "39389364",
+      "title": "Localization of neurons from extracellular footprints",
+      "authors": "Scopin M, Spampinato GLB, Marre O 他",
+      "journal": "Journal of neuroscience methods",
+      "pubdate": "2024/12/01",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/39389364/"
+    },
+    {
+      "pmid": "39528508",
+      "title": "Revealing single-neuron and network-activity interaction by combining high-density microelectrode array and optogenetics",
+      "authors": "Kobayashi T, Shimba K, Narumi T 他",
+      "journal": "Nature communications",
+      "pubdate": "2024/11/11",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/39528508/"
+    },
+    {
+      "pmid": "39539954",
+      "title": "CardioMEA: comprehensive data analysis platform for studying cardiac diseases and drug responses",
+      "authors": "Lee J, Duperrex E, El-Battrawy I 他",
+      "journal": "Frontiers in physiology",
+      "pubdate": "2024/10/30",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/39539954/"
+    },
+    {
+      "pmid": "39358332",
+      "title": "Hyperexcitability and translational phenotypes in a preclinical mouse model of SYNGAP1-related intellectual disability",
+      "authors": "Fenton TA, Haouchine OY, Hallam EB 他",
+      "journal": "Translational psychiatry",
+      "pubdate": "2024/10/02",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/39358332/"
+    },
+    {
+      "pmid": "39400191",
+      "title": "High-Quality Seizure-Like Activity from Acute Brain Slices Using a Complementary Metal-Oxide-Semiconductor High-Density Microelectrode Array System",
+      "authors": "Blotter ML, Stubbs IW, Norby JH 他",
+      "journal": "Journal of visualized experiments : JoVE",
+      "pubdate": "2024/09/27",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/39400191/"
+    },
+    {
+      "pmid": "39183484",
+      "title": "Developing Microelectrode Arrays for the Point-of-Care Multiplex Detection of Metabolites",
+      "authors": "Chang YC, Arnould B, Heemstra JM 他",
+      "journal": "Analytical chemistry",
+      "pubdate": "2024/09/10",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/39183484/"
+    },
+    {
+      "pmid": "39301177",
+      "title": "DENOISING: Dynamic enhancement and noise overcoming in multimodal neural observations via high-density CMOS-based biosensors",
+      "authors": "Hu X, Emery BA, Khanzada S 他",
+      "journal": "Frontiers in bioengineering and biotechnology",
+      "pubdate": "2024/09/04",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/39301177/"
+    },
+    {
+      "pmid": "39274138",
+      "title": "Enhancing Brain-Computer Interfaces through Kriging-Based Fusion of Sparse Regression Partial Differential Equations to Counter Injection Molding View of Node Displacement Effects",
+      "authors": "Chang H, Sun Y, Lu S 他",
+      "journal": "Polymers",
+      "pubdate": "2024/09/03",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/39274138/"
+    },
+    {
+      "pmid": "39172696",
+      "title": "Multimodal Mapping of Electrical and Mechanical Latency of Human-Induced Pluripotent Stem Cell-Derived Cardiomyocyte Layers",
+      "authors": "Zhang X, Burattini M, Duru J 他",
+      "journal": "ACS nano",
+      "pubdate": "2024/09/03",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/39172696/"
+    },
+    {
+      "pmid": "38885101",
+      "title": "Electrical Capacitance Tomography of Cell Cultures on a CMOS Microelectrode Array",
+      "authors": "Abdelatty M, Incandela J, Hu K 他",
+      "journal": "IEEE transactions on biomedical circuits and systems",
+      "pubdate": "2024/08/01",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/38885101/"
+    },
+    {
+      "pmid": "38776965",
+      "title": "A Multimodal Fitting Approach to Construct Single-Neuron Models With Patch Clamp and High-Density Microelectrode Arrays",
+      "authors": "Buccino AP, Damart T, Bartram J 他",
+      "journal": "Neural computation",
+      "pubdate": "2024/06/07",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/38776965/"
+    },
+    {
+      "pmid": "38378885",
+      "title": "Mechanical stimulation and electrophysiological monitoring at subcellular resolution reveals differential mechanosensation of neurons within networks",
+      "authors": "Kasuba KC, Buccino AP, Bartram J 他",
+      "journal": "Nature nanotechnology",
+      "pubdate": "2024/06/01",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/38378885/"
+    },
+    {
+      "pmid": "38394704",
+      "title": "Novel high-dense microelectrode array based multimodal bioelectronic monitoring system for cardiac arrhythmia re-entry analysis",
+      "authors": "Schmidt S, Li W, Schubert M 他",
+      "journal": "Biosensors & bioelectronics",
+      "pubdate": "2024/05/15",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/38394704/"
+    },
+    {
+      "pmid": "38683881",
+      "title": "Ensemble learning and ground-truth validation of synaptic connectivity inferred from spike trains",
+      "authors": "Donner C, Bartram J, Hornauer P 他",
+      "journal": "PLoS computational biology",
+      "pubdate": "2024/04/29",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/38683881/"
+    },
+    {
+      "pmid": "38547529",
+      "title": "Avoidance of axonal stimulation with sinusoidal epiretinal stimulation",
+      "authors": "Corna A, Cojocaru AE, Bui MT 他",
+      "journal": "Journal of neural engineering",
+      "pubdate": "2024/04/10",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/38547529/"
+    },
+    {
+      "pmid": "39391047",
+      "title": "A 1024-Channel 268 nW/pixel 36×36 μm(2)/channel Data-Compressive Neural Recording IC for High-Bandwidth Brain-Computer Interfaces",
+      "authors": "Jang M, Hays M, Yu WH 他",
+      "journal": "IEEE journal of solid-state circuits",
+      "pubdate": "2024/04/01",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/39391047/"
+    },
+    {
+      "pmid": "38562838",
+      "title": "Hyperexcitability and translational phenotypes in a preclinical mouse model of SYNGAP1-Related Intellectual Disability",
+      "authors": "Fenton TA, Haouchine OY, Hallam EL 他",
+      "journal": "Research square",
+      "pubdate": "2024/03/19",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/38562838/"
+    },
+    {
+      "pmid": "38526084",
+      "title": "Recording and Analyzing Multimodal Large-Scale Neuronal Ensemble Dynamics on CMOS-Integrated High-Density Microelectrode Array",
+      "authors": "Emery BA, Khanzada S, Hu X 他",
+      "journal": "Journal of visualized experiments : JoVE",
+      "pubdate": "2024/03/08",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/38526084/"
+    },
+    {
+      "pmid": "38278155",
+      "title": "DeePhys: A machine learning-assisted platform for electrophysiological phenotyping of human neuronal networks",
+      "authors": "Hornauer P, Prack G, Anastasi N 他",
+      "journal": "Stem cell reports",
+      "pubdate": "2024/02/13",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/38278155/"
+    },
+    {
+      "pmid": "37696220",
+      "title": "Optimizing mRNA transfection on a high-definition electroporation microelectrode array results in 98% efficiency and multiplexed gene delivery",
+      "authors": "Duckert B, Lambrechts D, Braeken D 他",
+      "journal": "Biosensors & bioelectronics",
+      "pubdate": "2023/12/01",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/37696220/"
+    },
+    {
+      "pmid": "38384749",
+      "title": "Microscale 3-D Capacitance Tomography with a CMOS Sensor Array",
+      "authors": "Abdelatty M, Incandela J, Hu K 他",
+      "journal": "IEEE Biomedical Circuits and Systems Conference : healthcare technology : [proceedings]. IEEE Biomedical Circuits and Systems Conference",
+      "pubdate": "2023/10/01",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/38384749/"
+    },
+    {
+      "pmid": "37762366",
+      "title": "Alteration of Neural Network and Hippocampal Slice Activation through Exosomes Derived from 5XFAD Nasal Lavage Fluid",
+      "authors": "Kim S, Jeon J, Ganbat D 他",
+      "journal": "International journal of molecular sciences",
+      "pubdate": "2023/09/14",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/37762366/"
+    },
+    {
+      "pmid": "37790402",
+      "title": "Hyperexcitability and translational phenotypes in a preclinical model of SYNGAP1 mutations",
+      "authors": "Silverman JL, Fenton T, Haouchine O 他",
+      "journal": "Research square",
+      "pubdate": "2023/09/13",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/37790402/"
+    },
+    {
+      "pmid": "37606618",
+      "title": "Functional imaging of conduction dynamics in cortical and spinal axons",
+      "authors": "Radivojevic M, Rostedt Punga A",
+      "journal": "eLife",
+      "pubdate": "2023/08/22",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/37606618/"
+    },
+    {
+      "pmid": "37546838",
+      "title": "Hyperexcitability and translational phenotypes in a preclinical model of SYNGAP1 mutations",
+      "authors": "Fenton TA, Haouchine OY, Hallam EL 他",
+      "journal": "bioRxiv : the preprint server for biology",
+      "pubdate": "2023/07/26",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/37546838/"
+    },
+    {
+      "pmid": "38083422",
+      "title": "Development of a Hypersensitivity Evaluation Method for Cultured Sensory Neurons Using Electrical Activity Recording",
+      "authors": "Miyahara Y, Shimba K, Kotani K 他",
+      "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+      "pubdate": "2023/07/01",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/38083422/"
+    },
+    {
+      "pmid": "37239146",
+      "title": "Anisotropy and Frequency Dependence of Signal Propagation in the Cerebellar Circuit Revealed by High-Density Multielectrode Array Recordings",
+      "authors": "Monteverdi A, Di Domenico D, D'Angelo E 他",
+      "journal": "Biomedicines",
+      "pubdate": "2023/05/18",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/37239146/"
+    },
+    {
+      "pmid": "36713289",
+      "title": "Predicting in vitro single-neuron firing rates upon pharmacological perturbation using Graph Neural Networks",
+      "authors": "Kim T, Chen D, Hornauer P 他",
+      "journal": "Frontiers in neuroinformatics",
+      "pubdate": "2023/01/11",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/36713289/"
+    },
+    {
+      "pmid": "36699522",
+      "title": "Microfluidic cell engineering on high-density microelectrode arrays for assessing structure-function relationships in living neuronal networks",
+      "authors": "Sato Y, Yamamoto H, Kato H 他",
+      "journal": "Frontiers in neuroscience",
+      "pubdate": "2023/01/09",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/36699522/"
+    },
+    {
+      "pmid": "37300780",
+      "title": "Measuring Neuronal Network Activity Using Human Induced Neuronal Cells",
+      "authors": "McSweeney D, English J, Howell E 他",
+      "journal": "Methods in molecular biology (Clifton, N.J.)",
+      "pubdate": "2023/01/01",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/37300780/"
+    },
+    {
+      "pmid": "36191109",
+      "title": "A CMOS Microelectrode Array System With Reconfigurable Sub-Array Multiplexing Architecture Integrating 24,320 Electrodes and 380 Readout Channels",
+      "authors": "Cha JH, Park JH, Park Y 他",
+      "journal": "IEEE transactions on biomedical circuits and systems",
+      "pubdate": "2022/12/01",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/36191109/"
+    },
+    {
+      "pmid": "36197979",
+      "title": "CMU Array: A 3D nanoprinted, fully customizable high-density microelectrode array platform",
+      "authors": "Saleh MS, Ritchie SM, Nicholas MA 他",
+      "journal": "Science advances",
+      "pubdate": "2022/10/07",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/36197979/"
+    },
+    {
+      "pmid": "36267241",
+      "title": "Long-term morphological and functional dynamics of human stem cell-derived neuronal networks on high-density micro-electrode arrays",
+      "authors": "Habibey R, Striebel J, Schmieder F 他",
+      "journal": "Frontiers in neuroscience",
+      "pubdate": "2022/10/04",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/36267241/"
+    },
+    {
+      "pmid": "36221258",
+      "title": "Tracking axon initial segment plasticity using high-density microelectrode arrays: A computational study",
+      "authors": "Kumar SS, Gänswein T, Buccino AP 他",
+      "journal": "Frontiers in neuroinformatics",
+      "pubdate": "2022/10/03",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/36221258/"
+    },
+    {
+      "pmid": "37126479",
+      "title": "Programmable Electrochemical Stimulation on a Large-Scale CMOS Microelectrode Array",
+      "authors": "Joshi PS, Hu K, Larkin JW 他",
+      "journal": "IEEE Biomedical Circuits and Systems Conference : healthcare technology : [proceedings]. IEEE Biomedical Circuits and Systems Conference",
+      "pubdate": "2022/10/01",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/37126479/"
+    },
+    {
+      "pmid": "35931040",
+      "title": "Inferring monosynaptic connections from paired dendritic spine Ca(2+)imaging and large-scale recording of extracellular spiking",
+      "authors": "Xue X, Buccino AP, Kumar SS 他",
+      "journal": "Journal of neural engineering",
+      "pubdate": "2022/08/23",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/35931040/"
+    },
+    {
+      "pmid": "35844228",
+      "title": "Xenon LFP Analysis Platform Is a Novel Graphical User Interface for Analysis of Local Field Potential From Large-Scale MEA Recordings",
+      "authors": "Mahadevan A, Codadu NK, Parrish RR",
+      "journal": "Frontiers in neuroscience",
+      "pubdate": "2022/07/01",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/35844228/"
+    },
+    {
+      "pmid": "35774867",
+      "title": "Aging-Dependent Altered Transcriptional Programs Underlie Activity Impairments in Human C9orf72-Mutant Motor Neurons",
+      "authors": "Sommer D, Rajkumar S, Seidel M 他",
+      "journal": "Frontiers in molecular neuroscience",
+      "pubdate": "2022/06/14",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/35774867/"
+    },
+    {
+      "pmid": "35509449",
+      "title": "Recording Saltatory Conduction Along Sensory Axons Using a High-Density Microelectrode Array",
+      "authors": "Shimba K, Asahina T, Sakai K 他",
+      "journal": "Frontiers in neuroscience",
+      "pubdate": "2022/04/18",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/35509449/"
+    },
+    {
+      "pmid": "35234667",
+      "title": "An automated method for precise axon reconstruction from recordings of high-density micro-electrode arrays",
+      "authors": "Buccino AP, Yuan X, Emmenegger V 他",
+      "journal": "Journal of neural engineering",
+      "pubdate": "2022/03/31",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/35234667/"
+    },
+    {
+      "pmid": "35266462",
+      "title": "Multi-parametric functional imaging of cell cultures and tissues with a CMOS microelectrode array",
+      "authors": "Abbott J, Mukherjee A, Wu W 他",
+      "journal": "Lab on a chip",
+      "pubdate": "2022/03/29",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/35266462/"
+    },
+    {
+      "pmid": "36120104",
+      "title": "Functional imaging of brain organoids using high-density microelectrode arrays",
+      "authors": "Schröter M, Wang C, Terrigno M 他",
+      "journal": "MRS bulletin",
+      "pubdate": "2022/01/01",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/36120104/"
+    },
+    {
+      "pmid": "35018369",
+      "title": "A modulated template-matching approach to improve spike sorting of bursting neurons",
+      "authors": "Shabestari PS, Buccino AP, Kumar SS 他",
+      "journal": "IEEE Biomedical Circuits and Systems Conference : healthcare technology : [proceedings]. IEEE Biomedical Circuits and Systems Conference",
+      "pubdate": "2021/12/23",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/35018369/"
+    },
+    {
+      "pmid": "34436058",
+      "title": "Real-Time Analysis of Oxygen Gradient in Oocyte Respiration Using a High-Density Microelectrode Array",
+      "authors": "Tedjo W, Obeidat Y, Catandi G 他",
+      "journal": "Biosensors",
+      "pubdate": "2021/07/29",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/34436058/"
+    },
+    {
+      "pmid": "33545694",
+      "title": "Spatial and temporal resolution of optogenetically recovered vision in ChR2-transduced mouse retina",
+      "authors": "Reh M, Lee MJ, Schmierer J 他",
+      "journal": "Journal of neural engineering",
+      "pubdate": "2021/04/06",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/33545694/"
+    },
+    {
+      "pmid": "33729694",
+      "title": "Electrophysiological Phenotype Characterization of Human iPSC-Derived Neuronal Cell Lines by Means of High-Density Microelectrode Arrays",
+      "authors": "Ronchi S, Buccino AP, Prack G 他",
+      "journal": "Advanced biology",
+      "pubdate": "2021/03/01",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/33729694/"
+    },
+    {
+      "pmid": "33551757",
+      "title": "Selective Participation of Single Cortical Neurons in Neuronal Avalanches",
+      "authors": "Bellay T, Shew WL, Yu S 他",
+      "journal": "Frontiers in neural circuits",
+      "pubdate": "2021/01/22",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/33551757/"
+    },
+    {
+      "pmid": "33479237",
+      "title": "3D high-density microelectrode array with optical stimulation and drug delivery for investigating neural circuit dynamics",
+      "authors": "Shin H, Jeong S, Lee JH 他",
+      "journal": "Nature communications",
+      "pubdate": "2021/01/21",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/33479237/"
+    },
+    {
+      "pmid": "32978383",
+      "title": "Versatile live-cell activity analysis platform for characterization of neuronal dynamics at single-cell and network level",
+      "authors": "Yuan X, Schröter M, Obien MEJ 他",
+      "journal": "Nature communications",
+      "pubdate": "2020/09/25",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/32978383/"
+    },
+    {
+      "pmid": "32697792",
+      "title": "Optimization of stimulation parameters for epi-retinal implant based on biosafety consideration",
+      "authors": "Lu Y, Qin S, Zhao L 他",
+      "journal": "PloS one",
+      "pubdate": "2020/07/22",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/32697792/"
+    },
+    {
+      "pmid": "33018739",
+      "title": "MAPSYNE: Miniaturized micropipette system combined with high-density microelectrode arrays for automated manipulation of neuronal networks in-vitro",
+      "authors": "Ricci C, Frey U, Obien MEJ",
+      "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+      "pubdate": "2020/07/01",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/33018739/"
+    },
+    {
+      "pmid": "32251331",
+      "title": "Probing and predicting ganglion cell responses to smooth electrical stimulation in healthy and blind mouse retina",
+      "authors": "Höfling L, Oesterle J, Berens P 他",
+      "journal": "Scientific reports",
+      "pubdate": "2020/03/23",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/32251331/"
+    },
+    {
+      "pmid": "31751250",
+      "title": "An Integrated Biosensor System With a High-Density Microelectrode Array for Real-Time Electrochemical Imaging",
+      "authors": "Tedjo W, Chen T",
+      "journal": "IEEE transactions on biomedical circuits and systems",
+      "pubdate": "2020/02/01",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/31751250/"
+    },
+    {
+      "pmid": "31611765",
+      "title": "Investigating the Effects of Mechanical Stimulation on Retinal Ganglion Cell Spontaneous Spiking Activity",
+      "authors": "Marrese M, Lonardoni D, Boi F 他",
+      "journal": "Frontiers in neuroscience",
+      "pubdate": "2019/09/27",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/31611765/"
+    },
+    {
+      "pmid": "31555099",
+      "title": "Large-Scale Mapping of Axonal Arbors Using High-Density Microelectrode Arrays",
+      "authors": "Bullmann T, Radivojevic M, Huber ST 他",
+      "journal": "Frontiers in cellular neuroscience",
+      "pubdate": "2019/09/06",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/31555099/"
+    },
+    {
+      "pmid": "30605090",
+      "title": "Stimulation and Artifact-Suppression Techniques for In Vitro High-Density Microelectrode Array Systems",
+      "authors": "Shadmani A, Viswam V, Chen Y 他",
+      "journal": "IEEE transactions on bio-medical engineering",
+      "pubdate": "2019/09/01",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/30605090/"
+    },
+    {
+      "pmid": "31294423",
+      "title": "Dual-mode Microelectrode Array Featuring 20k Electrodes and High SNR for Extracellular Recording of Neural Networks",
+      "authors": "Yuan X, Emmenegger V, Obien MEJ 他",
+      "journal": "IEEE Biomedical Circuits and Systems Conference : healthcare technology : [proceedings]. IEEE Biomedical Circuits and Systems Conference",
+      "pubdate": "2019/06/18",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/31294423/"
+    },
+    {
+      "pmid": "31118887",
+      "title": "Technologies to Study Action Potential Propagation With a Focus on HD-MEAs",
+      "authors": "Emmenegger V, Obien MEJ, Franke F 他",
+      "journal": "Frontiers in cellular neuroscience",
+      "pubdate": "2019/04/26",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/31118887/"
+    },
+    {
+      "pmid": "30949022",
+      "title": "A 4.8-μV(rms)-Noise CMOS-Microelectrode Array With Density-Scalable Active Readout Pixels via Disaggregated Differential Amplifier Implementation",
+      "authors": "Ogi J, Kato Y, Nakashima Y 他",
+      "journal": "Frontiers in neuroscience",
+      "pubdate": "2019/03/21",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/30949022/"
+    },
+    {
+      "pmid": "30918481",
+      "title": "Single-Cell Electrical Stimulation Using CMOS-Based High-Density Microelectrode Arrays",
+      "authors": "Ronchi S, Fiscella M, Marchetti C 他",
+      "journal": "Frontiers in neuroscience",
+      "pubdate": "2019/03/13",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/30918481/"
+    },
+    {
+      "pmid": "30692552",
+      "title": "Accurate signal-source localization in brain slices by means of high-density microelectrode arrays",
+      "authors": "Obien MEJ, Hierlemann A, Frey U",
+      "journal": "Scientific reports",
+      "pubdate": "2019/01/28",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/30692552/"
+    },
+    {
+      "pmid": "31073933",
+      "title": "Large-Scale, High-Resolution Microelectrode Arrays for Interrogation of Neurons and Networks",
+      "authors": "Obien MEJ, Frey U",
+      "journal": "Advances in neurobiology",
+      "pubdate": "2019/01/01",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/31073933/"
+    },
+    {
+      "pmid": "30418922",
+      "title": "Impedance Spectroscopy and Electrophysiological Imaging of Cells With a High-Density CMOS Microelectrode Array System",
+      "authors": "Viswam V, Bounik R, Shadmani A 他",
+      "journal": "IEEE transactions on biomedical circuits and systems",
+      "pubdate": "2018/12/01",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/30418922/"
+    },
+    {
+      "pmid": "30207864",
+      "title": "Automatic spike sorting for high-density microelectrode arrays",
+      "authors": "Diggelmann R, Fiscella M, Hierlemann A 他",
+      "journal": "Journal of neurophysiology",
+      "pubdate": "2018/12/01",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/30207864/"
+    },
+    {
+      "pmid": "29783145",
+      "title": "Electrochemical biosensor system using a CMOS microelectrode array provides high spatially and temporally resolved images",
+      "authors": "Tedjo W, Nejad JE, Feeny R 他",
+      "journal": "Biosensors & bioelectronics",
+      "pubdate": "2018/08/30",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/29783145/"
+    },
+    {
+      "pmid": "29675322",
+      "title": "Reflective lens-free imaging on high-density silicon microelectrode arrays for monitoring and evaluation of in vitro cardiac contractility",
+      "authors": "Pauwelyn T, Stahl R, Mayo L 他",
+      "journal": "Biomedical optics express",
+      "pubdate": "2018/03/22",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/29675322/"
+    },
+    {
+      "pmid": "28915251",
+      "title": "Computational analysis of network activity and spatial reach of sharp wave-ripples",
+      "authors": "Canakci S, Toy MF, Inci AF 他",
+      "journal": "PloS one",
+      "pubdate": "2017/09/15",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/28915251/"
+    },
+    {
+      "pmid": "28868212",
+      "title": "High-Density Mapping of Brain Slices using a Large Multi-Functional High-Density CMOS Microelectrode Array System",
+      "authors": "Viswam V, Bounik R, Shadmani A 他",
+      "journal": "International Solid-State Sensors, Actuators and Microsystems Conference : [proceedings]. International Conference on Solid-State Sensors, Actuators, and Microsystems",
+      "pubdate": "2017/06/01",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/28868212/"
+    },
+    {
+      "pmid": "28579632",
+      "title": "A Multi-Functional Microelectrode Array Featuring 59760 Electrodes, 2048 Electrophysiology Channels, Stimulation, Impedance Measurement and Neurotransmitter Detection Channels",
+      "authors": "Dragas J, Viswam V, Shadmani A 他",
+      "journal": "IEEE journal of solid-state circuits",
+      "pubdate": "2017/06/01",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/28579632/"
+    },
+    {
+      "pmid": "28616031",
+      "title": "Polyethylene glycol restores axonal conduction after corpus callosum transection",
+      "authors": "Bamba R, Riley DC, Boyer RB 他",
+      "journal": "Neural regeneration research",
+      "pubdate": "2017/05/01",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/28616031/"
+    },
+    {
+      "pmid": "28428560",
+      "title": "Combination of High-density Microelectrode Array and Patch Clamp Recordings to Enable Studies of Multisynaptic Integration",
+      "authors": "Jäckel D, Bakkum DJ, Russell TL 他",
+      "journal": "Scientific reports",
+      "pubdate": "2017/04/20",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/28428560/"
+    },
+    {
+      "pmid": "29780437",
+      "title": "High-density CMOS Microelectrode Array System for Impedance Spectroscopy and Imaging of Biological Cells",
+      "authors": "Vijay V, Raziyeh B, Amir S 他",
+      "journal": "Proceedings of IEEE Sensors. IEEE International Conference on Sensors",
+      "pubdate": "2017/01/26",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/29780437/"
+    },
+    {
+      "pmid": "29774324",
+      "title": "2048 Action Potential Recording Channels with 2.4 µVrms Noise and Stimulation Artifact Suppression",
+      "authors": "Viswam V, Chen Y, Shadmani A 他",
+      "journal": "IEEE Biomedical Circuits and Systems Conference : healthcare technology : [proceedings]. IEEE Biomedical Circuits and Systems Conference",
+      "pubdate": "2017/01/26",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/29774324/"
+    },
+    {
+      "pmid": "28184188",
+      "title": "Stimulus Phase Locking of Cortical Oscillations for Rhythmic Tone Sequences in Rats",
+      "authors": "Noda T, Amemiya T, Shiramatsu TI 他",
+      "journal": "Frontiers in neural circuits",
+      "pubdate": "2017/01/26",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/28184188/"
+    },
+    {
+      "pmid": "27920665",
+      "title": "Multiple Single-Unit Long-Term Tracking on Organotypic Hippocampal Slices Using High-Density Microelectrode Arrays",
+      "authors": "Gong W, Senčar J, Bakkum DJ 他",
+      "journal": "Frontiers in neuroscience",
+      "pubdate": "2016/11/22",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/27920665/"
+    },
+    {
+      "pmid": "27317497",
+      "title": "Unsupervised neural spike sorting for high-density microelectrode arrays with convolutive independent component analysis",
+      "authors": "Leibig C, Wachtler T, Zeck G",
+      "journal": "Journal of neuroscience methods",
+      "pubdate": "2016/09/15",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/27317497/"
+    },
+    {
+      "pmid": "27683541",
+      "title": "Extracellularly Recorded Somatic and Neuritic Signal Shapes and Classification Algorithms for High-Density Microelectrode Array Electrophysiology",
+      "authors": "Deligkaris K, Bullmann T, Frey U",
+      "journal": "Frontiers in neuroscience",
+      "pubdate": "2016/09/14",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/27683541/"
+    },
+    {
+      "pmid": "27482084",
+      "title": "High-frequency oscillations in human and monkey neocortex during the wake-sleep cycle",
+      "authors": "Le Van Quyen M, Muller LE 2nd, Telenczuk B 他",
+      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "pubdate": "2016/08/16",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/27482084/"
+    },
+    {
+      "pmid": "27013945",
+      "title": "Cortical Axons, Isolated in Channels, Display Activity-Dependent Signal Modulation as a Result of Targeted Stimulation",
+      "authors": "Lewandowska MK, Radivojević M, Jäckel D 他",
+      "journal": "Frontiers in neuroscience",
+      "pubdate": "2016/03/07",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/27013945/"
+    },
+    {
+      "pmid": "26333296",
+      "title": "Spatiotemporal norepinephrine mapping using a high-density CMOS microelectrode array",
+      "authors": "Wydallis JB, Feeny RM, Wilson W 他",
+      "journal": "Lab on a chip",
+      "pubdate": "2015/10/21",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/26333296/"
+    },
+    {
+      "pmid": "26528115",
+      "title": "A method for electrophysiological characterization of hamster retinal ganglion cells using a high-density CMOS microelectrode array",
+      "authors": "Jones IL, Russell TL, Farrow K 他",
+      "journal": "Frontiers in neuroscience",
+      "pubdate": "2015/10/13",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/26528115/"
+    },
+    {
+      "pmid": "26289471",
+      "title": "Visual coding with a population of direction-selective neurons",
+      "authors": "Fiscella M, Franke F, Farrow K 他",
+      "journal": "Journal of neurophysiology",
+      "pubdate": "2015/10/01",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/26289471/"
+    },
+    {
+      "pmid": "26736403",
+      "title": "Automated navigation of a glass micropipette on a high-density microelectrode array",
+      "authors": "Jing Lin, Obien ME, Hierlemann A 他",
+      "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+      "pubdate": "2015/08/01",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/26736403/"
+    },
+    {
+      "pmid": "33868793",
+      "title": "Long-Term, High-Spatiotemporal Resolution Recording From Cultured Organotypic Slices with High-Density Microelectrode Arrays",
+      "authors": "Gong W, Sencar J, Jäckel D 他",
+      "journal": "International Solid-State Sensors, Actuators and Microsystems Conference : [proceedings]. International Conference on Solid-State Sensors, Actuators, and Microsystems",
+      "pubdate": "2015/06/21",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/33868793/"
+    },
+    {
+      "pmid": "26738029",
+      "title": "High-channel-count, high-density microelectrode array for closed-loop investigation of neuronal networks",
+      "authors": "Tsai D, John E, Chari T 他",
+      "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+      "pubdate": "2015/01/01",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/26738029/"
+    },
+    {
+      "pmid": "25477790",
+      "title": "Functional connectivity estimation over large networks at cellular resolution based on electrophysiological recordings and structural prior",
+      "authors": "Ullo S, Nieus TR, Sona D 他",
+      "journal": "Frontiers in neuroanatomy",
+      "pubdate": "2014/11/20",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/25477790/"
+    },
+    {
+      "pmid": "28502989",
+      "title": "A 1024-Channel CMOS Microelectrode Array With 26,400 Electrodes for Recording and Stimulation of Electrogenic Cells In Vitro",
+      "authors": "Ballini M, Müller J, Livi P 他",
+      "journal": "IEEE journal of solid-state circuits",
+      "pubdate": "2014/11/01",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/28502989/"
+    },
+    {
+      "pmid": "23335887",
+      "title": "Sub-millisecond closed-loop feedback stimulation between arbitrary sets of individual neurons",
+      "authors": "Müller J, Bakkum DJ, Hierlemann A",
+      "journal": "Frontiers in neural circuits",
+      "pubdate": "2013/01/10",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/23335887/"
+    },
+    {
+      "pmid": "23867868",
+      "title": "Tracking axonal action potential propagation on a high-density microelectrode array across hundreds of sites",
+      "authors": "Bakkum DJ, Frey U, Radivojevic M 他",
+      "journal": "Nature communications",
+      "pubdate": "2013/01/01",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/23867868/"
+    },
+    {
+      "pmid": "23267316",
+      "title": "High-density microelectrode array recordings and real-time spike sorting for closed-loop experiments: an emerging technology to study neural plasticity",
+      "authors": "Franke F, Jäckel D, Dragas J 他",
+      "journal": "Frontiers in neural circuits",
+      "pubdate": "2012/12/20",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/23267316/"
+    },
+    {
+      "pmid": "22939921",
+      "title": "Recording from defined populations of retinal ganglion cells using a high-density CMOS-integrated microelectrode array with real-time switchable electrode selection",
+      "authors": "Fiscella M, Farrow K, Jones IL 他",
+      "journal": "Journal of neuroscience methods",
+      "pubdate": "2012/10/15",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/22939921/"
+    },
+    {
+      "pmid": "22490552",
+      "title": "Applicability of independent component analysis on high-density microelectrode array recordings",
+      "authors": "Jäckel D, Frey U, Fiscella M 他",
+      "journal": "Journal of neurophysiology",
+      "pubdate": "2012/07/01",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/22490552/"
+    },
+    {
+      "pmid": "20720282",
+      "title": "Tracking burst patterns in hippocampal cultures with high-density CMOS-MEAs",
+      "authors": "Gandolfo M, Maccione A, Tedesco M 他",
+      "journal": "Journal of neural engineering",
+      "pubdate": "2010/10/01",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/20720282/"
+    },
+    {
+      "pmid": "19766116",
+      "title": "Spatiotemporal aspects of pulsed electrical stimuli on the responses of rabbit retinal ganglion cells",
+      "authors": "Jensen RJ, Ziv OR, Rizzo JF 3rd 他",
+      "journal": "Experimental eye research",
+      "pubdate": "2009/12/01",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/19766116/"
+    },
+    {
+      "pmid": "19027792",
+      "title": "Extracellular recordings from locally dense microelectrode arrays coupled to dissociated cortical cultures",
+      "authors": "Berdondini L, Massobrio P, Chiappalone M 他",
+      "journal": "Journal of neuroscience methods",
+      "pubdate": "2009/03/15",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/19027792/"
+    },
+    {
+      "pmid": "18673087",
+      "title": "Modulation of cardiomyocyte electrical properties using regulated bone morphogenetic protein-2 expression",
+      "authors": "Sanchez-Bustamante CD, Frey U, Kelm JM 他",
+      "journal": "Tissue engineering. Part A",
+      "pubdate": "2008/12/01",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/18673087/"
+    },
+    {
+      "pmid": "19163385",
+      "title": "VLSI architecture of leading eigenvector generation for on-chip principal component analysis spike sorting system",
+      "authors": "Chen TC, Liu W, Chen LG",
+      "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+      "pubdate": "2008/01/01",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/19163385/"
+    },
+    {
+      "pmid": "17540452",
+      "title": "A CMOS-based microelectrode array for interaction with neuronal cultures",
+      "authors": "Hafizovic S, Heer F, Ugniwenko T 他",
+      "journal": "Journal of neuroscience methods",
+      "pubdate": "2007/08/15",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/17540452/"
+    },
+    {
+      "pmid": "18003218",
+      "title": "Impact of lossy compression on neural response characteristics extracted from high-density intra-cortical implant data",
+      "authors": "Shetliffe MA, Kamboh AM, Mason A 他",
+      "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+      "pubdate": "2007/01/01",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/18003218/"
+    },
+    {
+      "pmid": "18001915",
+      "title": "Cell recordings with a CMOS high-density microelectrode array",
+      "authors": "Frey U, Sanchez-Bustamante CD, Ugniwenko T 他",
+      "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+      "pubdate": "2007/01/01",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/18001915/"
+    },
+    {
+      "pmid": "16830940",
+      "title": "A systems approach for data compression and latency reduction in cortically controlled brain machine interfaces",
+      "authors": "Oweiss KG",
+      "journal": "IEEE transactions on bio-medical engineering",
+      "pubdate": "2006/07/01",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/16830940/"
+    },
+    {
+      "pmid": "16711661",
+      "title": "Acute microelectrode array implantation into human neocortex: preliminary technique and histological considerations",
+      "authors": "House PA, MacDonald JD, Tresco PA 他",
+      "journal": "Neurosurgical focus",
+      "pubdate": "2006/05/15",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/16711661/"
+    },
+    {
+      "pmid": "15626625",
+      "title": "A high density microelectrode array biosensor for detection of E. coli O157:H7",
+      "authors": "Radke SM, Alocilja EC",
+      "journal": "Biosensors & bioelectronics",
+      "pubdate": "2005/02/15",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/15626625/"
+    },
+    {
+      "pmid": "15308242",
+      "title": "CMOS microelectrode array for the monitoring of electrogenic cells",
+      "authors": "Heer F, Franks W, Blau A 他",
+      "journal": "Biosensors & bioelectronics",
+      "pubdate": "2004/09/15",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/15308242/"
+    }
+  ]
+}

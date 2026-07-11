@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>HD-MEA News | 高密度微小電極アレイ最新情報</title>
+<meta name="description" content="HD-MEA(高密度微小電極アレイ)に関する最新論文・イベント・企業情報をまとめるサイト">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<header class="site-header">
+  <div class="container">
+    <h1>HD-MEA News</h1>
+    <p class="tagline">High-Density Microelectrode Array の最新論文・イベント・企業情報</p>
+  </div>
+</header>
+
+<nav class="tabs">
+  <div class="container tabs-inner">
+    <button class="tab-btn active" data-tab="papers">論文</button>
+    <button class="tab-btn" data-tab="events">イベント</button>
+    <button class="tab-btn" data-tab="news">企業情報</button>
+  </div>
+</nav>
+
+<main class="container">
+
+  <section id="papers" class="tab-panel active">
+    <div class="panel-toolbar">
+      <input type="search" id="paper-search" placeholder="キーワードで論文を検索(タイトル・著者・雑誌名)">
+      <select id="paper-sort">
+        <option value="date-desc">新しい順</option>
+        <option value="date-asc">古い順</option>
+      </select>
+    </div>
+    <p class="meta-line" id="papers-meta">読み込み中...</p>
+    <ul id="paper-list" class="card-list"></ul>
+  </section>
+
+  <section id="events" class="tab-panel">
+    <p class="meta-line" id="events-meta">読み込み中...</p>
+    <ul id="event-list" class="card-list"></ul>
+  </section>
+
+  <section id="news" class="tab-panel">
+    <p class="meta-line" id="news-meta">読み込み中...</p>
+    <div id="news-list"></div>
+  </section>
+
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <p>論文情報は <a href="https://pubmed.ncbi.nlm.nih.gov/" target="_blank" rel="noopener">PubMed</a> から自動取得しています。イベント・企業情報は手動でキュレーションしています。</p>
+  </div>
+</footer>
+
+<script src="js/main.js"></script>
+</body>
+</html>

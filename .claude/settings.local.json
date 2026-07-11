@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm --version)",
+      "WebSearch",
+      "Bash(node scripts/fetch-papers.mjs)",
+      "Bash(where node *)",
+      "Read(//c/Program Files/nodejs/**)",
+      "Bash(where.exe nvm *)",
+      "WebFetch(domain:www.mxwbio.com)",
+      "WebFetch(domain:mea-forum.de)",
+      "WebFetch(domain:www.3brain.com)",
+      "WebFetch(domain:www.nmi.de)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\\\\n\" http://localhost:8000/data/papers.json)",
+      "Bash(curl -s \"https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&rettype=abstract&retmode=xml&id=22189981\")",
+      "Bash(grep -o '<AbstractText[^>]*>.\\\\{0,400\\\\}')",
+      "Read(//tmp/**)",
+      "Bash(grep -o '.\\\\{40\\\\}[Mm][Aa][Xx][Oo][Nn][Ee].\\\\{40\\\\}' /tmp/one.xml)",
+      "Bash(grep -o '.\\\\{40\\\\}[Bb]iocam.\\\\{40\\\\}' /tmp/x.xml)",
+      "Bash(taskkill //F //IM python.exe)"
+    ]
+  }
+}
