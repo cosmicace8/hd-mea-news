@@ -28,12 +28,15 @@ jobs:
       - name: Fetch latest papers from PubMed
         run: node scripts/fetch-papers.mjs
 
+      - name: Check for new event/news pages (3Brain / MaxWell Biosystems)
+        run: node scripts/check-new-content.mjs
+
       - name: Commit updated data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/papers.json
-          git diff --cached --quiet || git commit -m "chore: update papers.json"
+          git add data/papers.json data/new-content-alerts.json
+          git diff --cached --quiet || git commit -m "chore: update papers and new-content alerts"
           git push
 
   deploy:

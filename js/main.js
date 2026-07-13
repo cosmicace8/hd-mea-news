@@ -159,6 +159,39 @@ async function loadNews() {
   }
 }
 
+// ---- 新着候補アラート(自動検知・要確認) ----
+async function loadAlerts() {
+  try {
+    const res = await fetch('data/new-content-alerts.json');
+    const data = await res.json();
+    const alerts = data.alerts || [];
+
+    renderAlerts(document.getElementById('events-alerts'), alerts.filter((a) => a.type === 'event'), '未確認のイベント候補');
+    renderAlerts(document.getElementById('news-alerts'), alerts.filter((a) => a.type === 'news'), '未確認のニュース候補');
+  } catch (err) {
+    // アラートファイルが無い/読めない場合は何も表示しない
+  }
+}
+
+function renderAlerts(container, items, label) {
+  if (!container || items.length === 0) return;
+  container.innerHTML = `
+    <details class="alert-box">
+      <summary>${escapeHtml(label)}(自動検知・${items.length}件、内容未確認)</summary>
+      <ul class="alert-list">
+        ${items
+          .map(
+            (a) => `
+          <li>[${escapeHtml(a.source)}] <a href="${escapeHtml(a.url)}" target="_blank" rel="noopener">${escapeHtml(a.url)}</a>(検知日: ${escapeHtml(a.discoveredAt)})</li>
+        `
+          )
+          .join('')}
+      </ul>
+    </details>
+  `;
+}
+
 loadPapers();
 loadEvents();
 loadNews();
+loadAlerts();

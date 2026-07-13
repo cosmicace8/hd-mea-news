@@ -17,7 +17,10 @@
       "Read(//tmp/**)",
       "Bash(grep -o '.\\\\{40\\\\}[Mm][Aa][Xx][Oo][Nn][Ee].\\\\{40\\\\}' /tmp/one.xml)",
       "Bash(grep -o '.\\\\{40\\\\}[Bb]iocam.\\\\{40\\\\}' /tmp/x.xml)",
-      "Bash(taskkill //F //IM python.exe)"
+      "Bash(taskkill //F //IM python.exe)",
+      "Bash(node scripts/check-new-content.mjs)",
+      "Bash(rm -f server.log)",
+      "Bash(git add *)"
     ]
   }
 }

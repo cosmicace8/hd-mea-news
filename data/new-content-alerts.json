@@ -1,0 +1,157 @@
+{
+  "updatedAt": "2026-07-13T13:24:50.276Z",
+  "note": "ここに載っているのは「未確認の新規ページ候補」。内容を確認しdata/events.jsonまたはdata/news.jsonに手動で反映したら、このリストから自然に消えます(反映先にurlが載れば次回実行時に除外されるため)。",
+  "count": 25,
+  "alerts": [
+    {
+      "source": "3Brain",
+      "type": "event",
+      "url": "https://www.3brain.com/events/join-3brain-at-our-lunch-learn",
+      "discoveredAt": "2026-07-13"
+    },
+    {
+      "source": "3Brain",
+      "type": "event",
+      "url": "https://www.3brain.com/events/join-3brain-at-our-lunch-learn-cluster",
+      "discoveredAt": "2026-07-13"
+    },
+    {
+      "source": "3Brain",
+      "type": "event",
+      "url": "https://www.3brain.com/events/lunch-learn-cluster-js",
+      "discoveredAt": "2026-07-13"
+    },
+    {
+      "source": "3Brain",
+      "type": "event",
+      "url": "https://www.3brain.com/events/lunch-learn-cluster-bs",
+      "discoveredAt": "2026-07-13"
+    },
+    {
+      "source": "3Brain",
+      "type": "event",
+      "url": "https://www.3brain.com/events/lunch-learn-cluster-bs-organoid",
+      "discoveredAt": "2026-07-13"
+    },
+    {
+      "source": "3Brain",
+      "type": "event",
+      "url": "https://www.3brain.com/events/sfn25",
+      "discoveredAt": "2026-07-13"
+    },
+    {
+      "source": "3Brain",
+      "type": "event",
+      "url": "https://www.3brain.com/events/cshl-25",
+      "discoveredAt": "2026-07-13"
+    },
+    {
+      "source": "3Brain",
+      "type": "event",
+      "url": "https://www.3brain.com/events/lunch-learn-gladstone",
+      "discoveredAt": "2026-07-13"
+    },
+    {
+      "source": "3Brain",
+      "type": "event",
+      "url": "https://www.3brain.com/events/massimo-grattarola-award-2025-winner-noelia-anton-bolanos",
+      "discoveredAt": "2026-07-13"
+    },
+    {
+      "source": "3Brain",
+      "type": "event",
+      "url": "https://www.3brain.com/events/isscr26",
+      "discoveredAt": "2026-07-13"
+    },
+    {
+      "source": "3Brain",
+      "type": "event",
+      "url": "https://www.3brain.com/events/INTERPHEX-JP",
+      "discoveredAt": "2026-07-13"
+    },
+    {
+      "source": "MaxWell Biosystems",
+      "type": "event",
+      "url": "https://webflow.mxwbio.com/events/mxw-events/symposium---vienna",
+      "discoveredAt": "2026-07-13"
+    },
+    {
+      "source": "MaxWell Biosystems",
+      "type": "event",
+      "url": "https://webflow.mxwbio.com/events/mxw-events/2nd-microelectrode-arrays-in-neuroscience-social",
+      "discoveredAt": "2026-07-13"
+    },
+    {
+      "source": "MaxWell Biosystems",
+      "type": "event",
+      "url": "https://webflow.mxwbio.com/events/mxw-events/measterpiece-art-contest",
+      "discoveredAt": "2026-07-13"
+    },
+    {
+      "source": "MaxWell Biosystems",
+      "type": "event",
+      "url": "https://webflow.mxwbio.com/events/mxw-events/symposium---kyoto",
+      "discoveredAt": "2026-07-13"
+    },
+    {
+      "source": "MaxWell Biosystems",
+      "type": "event",
+      "url": "https://webflow.mxwbio.com/events/mxw-events/hns-australia-2026",
+      "discoveredAt": "2026-07-13"
+    },
+    {
+      "source": "MaxWell Biosystems",
+      "type": "event",
+      "url": "https://webflow.mxwbio.com/events/mxw-events/neumos-2026",
+      "discoveredAt": "2026-07-13"
+    },
+    {
+      "source": "MaxWell Biosystems",
+      "type": "event",
+      "url": "https://webflow.mxwbio.com/events/mxw-events/mxw-workshop-shanghai-2026",
+      "discoveredAt": "2026-07-13"
+    },
+    {
+      "source": "MaxWell Biosystems",
+      "type": "event",
+      "url": "https://webflow.mxwbio.com/events/mxw-events/mxw-connect-london-2026",
+      "discoveredAt": "2026-07-13"
+    },
+    {
+      "source": "MaxWell Biosystems",
+      "type": "event",
+      "url": "https://webflow.mxwbio.com/events/mxw-events/mxw-workshop-tokyo-2026",
+      "discoveredAt": "2026-07-13"
+    },
+    {
+      "source": "MaxWell Biosystems",
+      "type": "event",
+      "url": "https://webflow.mxwbio.com/events/mxw-events/mxw-workshop-antwerp-2026",
+      "discoveredAt": "2026-07-13"
+    },
+    {
+      "source": "MaxWell Biosystems",
+      "type": "event",
+      "url": "https://webflow.mxwbio.com/events/mxw-events/gladstone-seminar-2026",
+      "discoveredAt": "2026-07-13"
+    },
+    {
+      "source": "MaxWell Biosystems",
+      "type": "event",
+      "url": "https://webflow.mxwbio.com/events/mxw-events/mxw-connect-san-diego-2026",
+      "discoveredAt": "2026-07-13"
+    },
+    {
+      "source": "MaxWell Biosystems",
+      "type": "event",
+      "url": "https://webflow.mxwbio.com/events/mxw-events/mxw-connect-san-francisco-2026",
+      "discoveredAt": "2026-07-13"
+    },
+    {
+      "source": "MaxWell Biosystems",
+      "type": "event",
+      "url": "https://webflow.mxwbio.com/events/mxw-events/mxw-10-year-open-house",
+      "discoveredAt": "2026-07-13"
+    }
+  ]
+}
