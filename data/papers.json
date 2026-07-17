@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16T21:58:01.990Z",
+  "updatedAt": "2026-07-17T21:43:21.957Z",
   "query": "\"high-density microelectrode array\"[tiab] OR \"high density microelectrode array\"[tiab] OR \"HD-MEA\"[tiab] OR \"HD-MEAs\"[tiab] OR \"CMOS microelectrode array\"[tiab] OR \"CMOS-based microelectrode array\"[tiab] OR \"MaxWell Biosystems\"[tiab] OR \"MaxOne\"[tiab] OR \"MaxTwo\"[tiab] OR \"3Brain\"[tiab] OR \"BioCAM\"[tiab] OR \"HyperCAM\"[tiab]",
   "count": 141,
   "papers": [
@@ -18,6 +18,14 @@
       "journal": "Journal of neuroscience methods",
       "pubdate": "2026/07/01",
       "link": "https://pubmed.ncbi.nlm.nih.gov/41864567/"
+    },
+    {
+      "pmid": "41136604",
+      "title": "Implanted microelectrode arrays in reinnervated muscles allow separation of neural drives from transferred polyfunctional nerves",
+      "authors": "Ferrante L, Boesendorfer A, Barsakcioglu DY 他",
+      "journal": "Nature biomedical engineering",
+      "pubdate": "2026/07/01",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/41136604/"
     },
     {
       "pmid": "42362501",
@@ -130,14 +138,6 @@
       "journal": "Neurobiology of disease",
       "pubdate": "2025/11/01",
       "link": "https://pubmed.ncbi.nlm.nih.gov/41015095/"
-    },
-    {
-      "pmid": "41136604",
-      "title": "Implanted microelectrode arrays in reinnervated muscles allow separation of neural drives from transferred polyfunctional nerves",
-      "authors": "Ferrante L, Boesendorfer A, Barsakcioglu DY 他",
-      "journal": "Nature biomedical engineering",
-      "pubdate": "2025/10/24",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/41136604/"
     },
     {
       "pmid": "40878213",
