@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-07-27T21:58:35.903Z",
+  "updatedAt": "2026-07-28T21:56:34.910Z",
   "query": "\"high-density microelectrode array\"[tiab] OR \"high density microelectrode array\"[tiab] OR \"HD-MEA\"[tiab] OR \"HD-MEAs\"[tiab] OR \"CMOS microelectrode array\"[tiab] OR \"CMOS-based microelectrode array\"[tiab] OR \"MaxWell Biosystems\"[tiab] OR \"MaxOne\"[tiab] OR \"MaxTwo\"[tiab] OR \"3Brain\"[tiab] OR \"BioCAM\"[tiab] OR \"HyperCAM\"[tiab]",
-  "count": 142,
+  "count": 143,
   "papers": [
     {
       "pmid": "42155761",
@@ -10,6 +10,14 @@
       "journal": "Brain research",
       "pubdate": "2026/09/15",
       "link": "https://pubmed.ncbi.nlm.nih.gov/42155761/"
+    },
+    {
+      "pmid": "42511787",
+      "title": "Large-Scale Neural Recording Technologies for Investigating Circuit Dysfunction and Functional Biomarker Discovery in Animal Models of Alzheimer's Disease",
+      "authors": "Sun D, Wang S, Meng Q 他",
+      "journal": "International journal of molecular sciences",
+      "pubdate": "2026/07/20",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42511787/"
     },
     {
       "pmid": "42469034",
