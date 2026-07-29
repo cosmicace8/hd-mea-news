@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-07-28T21:56:34.910Z",
+  "updatedAt": "2026-07-29T21:52:57.954Z",
   "query": "\"high-density microelectrode array\"[tiab] OR \"high density microelectrode array\"[tiab] OR \"HD-MEA\"[tiab] OR \"HD-MEAs\"[tiab] OR \"CMOS microelectrode array\"[tiab] OR \"CMOS-based microelectrode array\"[tiab] OR \"MaxWell Biosystems\"[tiab] OR \"MaxOne\"[tiab] OR \"MaxTwo\"[tiab] OR \"3Brain\"[tiab] OR \"BioCAM\"[tiab] OR \"HyperCAM\"[tiab]",
-  "count": 143,
+  "count": 144,
   "papers": [
     {
       "pmid": "42155761",
@@ -10,6 +10,14 @@
       "journal": "Brain research",
       "pubdate": "2026/09/15",
       "link": "https://pubmed.ncbi.nlm.nih.gov/42155761/"
+    },
+    {
+      "pmid": "42525390",
+      "title": "CASCADE: Criticality Avalanche Spike Cross-platform Analysis Detection Engine, a Multi-Manufacturer MEA Bash Analysis Pipeline",
+      "authors": "Avila F, Kim J, Park JC 他",
+      "journal": "Bioinformatics (Oxford, England)",
+      "pubdate": "2026/07/29",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42525390/"
     },
     {
       "pmid": "42511787",
