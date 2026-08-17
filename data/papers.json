@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T21:12:31.304Z",
+  "updatedAt": "2026-08-17T21:18:30.366Z",
   "query": "\"high-density microelectrode array\"[tiab] OR \"high density microelectrode array\"[tiab] OR \"HD-MEA\"[tiab] OR \"HD-MEAs\"[tiab] OR \"CMOS microelectrode array\"[tiab] OR \"CMOS-based microelectrode array\"[tiab] OR \"MaxWell Biosystems\"[tiab] OR \"MaxOne\"[tiab] OR \"MaxTwo\"[tiab] OR \"3Brain\"[tiab] OR \"BioCAM\"[tiab] OR \"HyperCAM\"[tiab]",
   "count": 144,
   "papers": [
@@ -12,20 +12,20 @@
       "link": "https://pubmed.ncbi.nlm.nih.gov/42155761/"
     },
     {
+      "pmid": "42525390",
+      "title": "CASCADE: criticality avalanche spike cross-platform analysis detection engine, a multi-manufacturer MEA bash analysis pipeline",
+      "authors": "Avila F, Kim J, Park JC 他",
+      "journal": "Bioinformatics (Oxford, England)",
+      "pubdate": "2026/08/03",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42525390/"
+    },
+    {
       "pmid": "42095419",
       "title": "Engineering Neuronal Network Connectivity Through Precise and Scalable Electrical Modulation",
       "authors": "S Kumar S, Bossard Y, Sava R 他",
       "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
       "pubdate": "2026/08/01",
       "link": "https://pubmed.ncbi.nlm.nih.gov/42095419/"
-    },
-    {
-      "pmid": "42525390",
-      "title": "CASCADE: Criticality Avalanche Spike Cross-platform Analysis Detection Engine, a Multi-Manufacturer MEA Bash Analysis Pipeline",
-      "authors": "Avila F, Kim J, Park JC 他",
-      "journal": "Bioinformatics (Oxford, England)",
-      "pubdate": "2026/07/29",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42525390/"
     },
     {
       "pmid": "42511787",
