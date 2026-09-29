@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T23:31:24.297Z",
+  "updatedAt": "2026-09-29T00:45:28.372Z",
   "query": "\"high-density microelectrode array\"[tiab] OR \"high density microelectrode array\"[tiab] OR \"HD-MEA\"[tiab] OR \"HD-MEAs\"[tiab] OR \"CMOS microelectrode array\"[tiab] OR \"CMOS-based microelectrode array\"[tiab] OR \"MaxWell Biosystems\"[tiab] OR \"MaxOne\"[tiab] OR \"MaxTwo\"[tiab] OR \"3Brain\"[tiab] OR \"BioCAM\"[tiab] OR \"HyperCAM\"[tiab]",
   "count": 146,
   "papers": [
@@ -8,7 +8,7 @@
       "title": "A high-density microelectrode array integrated microfluidic platform for quantitative investigation of functional connectivity in interconnected human dopaminergic neurospheroids",
       "authors": "Ausilio C, Scalzone A, Mollo V 他",
       "journal": "Biofabrication",
-      "pubdate": "2026/09/15",
+      "pubdate": "2026/09/28",
       "link": "https://pubmed.ncbi.nlm.nih.gov/42743997/"
     },
     {
