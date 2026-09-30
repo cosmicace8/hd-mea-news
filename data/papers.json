@@ -1,8 +1,16 @@
 {
-  "updatedAt": "2026-09-29T00:45:28.372Z",
+  "updatedAt": "2026-09-30T00:00:57.656Z",
   "query": "\"high-density microelectrode array\"[tiab] OR \"high density microelectrode array\"[tiab] OR \"HD-MEA\"[tiab] OR \"HD-MEAs\"[tiab] OR \"CMOS microelectrode array\"[tiab] OR \"CMOS-based microelectrode array\"[tiab] OR \"MaxWell Biosystems\"[tiab] OR \"MaxOne\"[tiab] OR \"MaxTwo\"[tiab] OR \"3Brain\"[tiab] OR \"BioCAM\"[tiab] OR \"HyperCAM\"[tiab]",
   "count": 146,
   "papers": [
+    {
+      "pmid": "42700517",
+      "title": "Brain organoids, high-density MEAs, and deep learning: A new paradigm for functional neurobiomarker discovery",
+      "authors": "Murthy MK",
+      "journal": "Computers in biology and medicine",
+      "pubdate": "2026/10/01",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42700517/"
+    },
     {
       "pmid": "42743997",
       "title": "A high-density microelectrode array integrated microfluidic platform for quantitative investigation of functional connectivity in interconnected human dopaminergic neurospheroids",
@@ -18,14 +26,6 @@
       "journal": "Brain research",
       "pubdate": "2026/09/15",
       "link": "https://pubmed.ncbi.nlm.nih.gov/42155761/"
-    },
-    {
-      "pmid": "42700517",
-      "title": "Brain organoids, high-density MEAs, and deep learning: A new paradigm for functional neurobiomarker discovery",
-      "authors": "Murthy MK",
-      "journal": "Computers in biology and medicine",
-      "pubdate": "2026/09/05",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42700517/"
     },
     {
       "pmid": "42525390",
