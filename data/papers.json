@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T00:22:38.281Z",
+  "updatedAt": "2026-10-03T00:05:07.328Z",
   "query": "\"high-density microelectrode array\"[tiab] OR \"high density microelectrode array\"[tiab] OR \"HD-MEA\"[tiab] OR \"HD-MEAs\"[tiab] OR \"CMOS microelectrode array\"[tiab] OR \"CMOS-based microelectrode array\"[tiab] OR \"MaxWell Biosystems\"[tiab] OR \"MaxOne\"[tiab] OR \"MaxTwo\"[tiab] OR \"3Brain\"[tiab] OR \"BioCAM\"[tiab] OR \"HyperCAM\"[tiab]",
   "count": 146,
   "papers": [
@@ -10,6 +10,14 @@
       "journal": "Computers in biology and medicine",
       "pubdate": "2026/10/01",
       "link": "https://pubmed.ncbi.nlm.nih.gov/42700517/"
+    },
+    {
+      "pmid": "42012311",
+      "title": "Bringing cellular clarity to the cortical component of ALS with a high-density multi-electrode array system",
+      "authors": "Erol ZY, Quintanilla C, Ozdinler PH",
+      "journal": "The FEBS journal",
+      "pubdate": "2026/10/01",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42012311/"
     },
     {
       "pmid": "42743997",
@@ -122,14 +130,6 @@
       "journal": "Biomaterials",
       "pubdate": "2026/05/01",
       "link": "https://pubmed.ncbi.nlm.nih.gov/41187592/"
-    },
-    {
-      "pmid": "42012311",
-      "title": "Bringing cellular clarity to the cortical component of ALS with a high-density multi-electrode array system",
-      "authors": "Erol ZY, Quintanilla C, Ozdinler PH",
-      "journal": "The FEBS journal",
-      "pubdate": "2026/04/21",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/42012311/"
     },
     {
       "pmid": "41621071",
