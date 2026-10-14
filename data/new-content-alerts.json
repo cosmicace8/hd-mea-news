@@ -1,8 +1,14 @@
 {
-  "updatedAt": "2026-10-13T02:19:32.139Z",
+  "updatedAt": "2026-10-14T00:02:44.236Z",
   "note": "ここに載っているのは「未確認の新規ページ候補」。内容を確認しdata/events.jsonまたはdata/news.jsonに手動で反映したら、このリストから自然に消えます(反映先にurlが載れば次回実行時に除外されるため)。",
-  "count": 25,
+  "count": 26,
   "alerts": [
+    {
+      "source": "3Brain",
+      "type": "event",
+      "url": "https://www.3brain.com/events/sfn26",
+      "discoveredAt": "2026-10-14"
+    },
     {
       "source": "3Brain",
       "type": "event",
