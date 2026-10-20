@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-20T00:02:59.733Z",
+  "updatedAt": "2026-10-20T23:33:39.787Z",
   "note": "ここに載っているのは「未確認の新規ページ候補」。内容を確認しdata/events.jsonまたはdata/news.jsonに手動で反映したら、このリストから自然に消えます(反映先にurlが載れば次回実行時に除外されるため)。",
-  "count": 26,
+  "count": 25,
   "alerts": [
     {
       "source": "3Brain",
@@ -91,12 +91,6 @@
       "source": "MaxWell Biosystems",
       "type": "event",
       "url": "https://webflow.mxwbio.com/events/mxw-events/measterpiece-art-contest",
-      "discoveredAt": "2026-07-13"
-    },
-    {
-      "source": "MaxWell Biosystems",
-      "type": "event",
-      "url": "https://webflow.mxwbio.com/events/mxw-events/symposium---kyoto",
       "discoveredAt": "2026-07-13"
     },
     {
