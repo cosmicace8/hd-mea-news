@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-08T00:06:20.188Z",
+  "updatedAt": "2026-11-09T00:23:34.698Z",
   "query": "\"high-density microelectrode array\"[tiab] OR \"high density microelectrode array\"[tiab] OR \"HD-MEA\"[tiab] OR \"HD-MEAs\"[tiab] OR \"CMOS microelectrode array\"[tiab] OR \"CMOS-based microelectrode array\"[tiab] OR \"MaxWell Biosystems\"[tiab] OR \"MaxOne\"[tiab] OR \"MaxTwo\"[tiab] OR \"3Brain\"[tiab] OR \"BioCAM\"[tiab] OR \"HyperCAM\"[tiab]",
-  "count": 147,
+  "count": 148,
   "papers": [
     {
       "pmid": "42879264",
@@ -10,6 +10,14 @@
       "journal": "IEEE transactions on bio-medical engineering",
       "pubdate": "2026/10/15",
       "link": "https://pubmed.ncbi.nlm.nih.gov/42879264/"
+    },
+    {
+      "pmid": "42999288",
+      "title": "A foundation model for brain organoid network dynamics uncovers intrinsic computation and convergent disease phenotypes",
+      "authors": "Schweiger HE, Robbins A, Hernandez S 他",
+      "journal": "bioRxiv : the preprint server for biology",
+      "pubdate": "2026/10/13",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/42999288/"
     },
     {
       "pmid": "42700517",
