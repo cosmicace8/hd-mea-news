@@ -1,8 +1,16 @@
 {
-  "updatedAt": "2026-11-16T00:34:53.762Z",
+  "updatedAt": "2026-11-17T03:19:22.596Z",
   "query": "\"high-density microelectrode array\"[tiab] OR \"high density microelectrode array\"[tiab] OR \"HD-MEA\"[tiab] OR \"HD-MEAs\"[tiab] OR \"CMOS microelectrode array\"[tiab] OR \"CMOS-based microelectrode array\"[tiab] OR \"MaxWell Biosystems\"[tiab] OR \"MaxOne\"[tiab] OR \"MaxTwo\"[tiab] OR \"3Brain\"[tiab] OR \"BioCAM\"[tiab] OR \"HyperCAM\"[tiab]",
-  "count": 148,
+  "count": 149,
   "papers": [
+    {
+      "pmid": "43038047",
+      "title": "Two-dimensional adhesion noise spectroscopy: a CMOS-based, non-invasive modality for real-time cell and tissue monitoring",
+      "authors": "Ell M, Talha N, Jung WB 他",
+      "journal": "Lab on a chip",
+      "pubdate": "2026/11/16",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43038047/"
+    },
     {
       "pmid": "42879264",
       "title": "A Reconfigurable CMOS Microelectrode Array Featuring 24,576 Electrodes for Chemical and Electrical Neural Recording",
