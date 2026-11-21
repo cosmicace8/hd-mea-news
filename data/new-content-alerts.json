@@ -1,8 +1,14 @@
 {
-  "updatedAt": "2026-11-20T01:58:09.769Z",
+  "updatedAt": "2026-11-21T01:53:39.552Z",
   "note": "ここに載っているのは「未確認の新規ページ候補」。内容を確認しdata/events.jsonまたはdata/news.jsonに手動で反映したら、このリストから自然に消えます(反映先にurlが載れば次回実行時に除外されるため)。",
-  "count": 25,
+  "count": 26,
   "alerts": [
+    {
+      "source": "3Brain",
+      "type": "event",
+      "url": "https://www.3brain.com/events/cshl-26",
+      "discoveredAt": "2026-11-21"
+    },
     {
       "source": "3Brain",
       "type": "event",
